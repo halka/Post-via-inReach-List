@@ -6,13 +6,11 @@ Cloudflare Email Workers
 
 ## SNS
 ### X
-[https://github.com/halka/Iridium-vs-Starlink halka/Iridium-vs-Starlink]
-
+[halka/Iridium-vs-Starlink](https://github.com/halka/Iridium-vs-Starlink)
 ### Bluesky
-[https://github.com/halka/Email-Workers-to-Bluesky halka/Email-Workers-to-Bluesky: Post to Bluesky via Cloudflare Email Workers]
-
+[halka/Email-Workers-to-Bluesky: Post to Bluesky via Cloudflare Email Workers](https://github.com/halka/Email-Workers-to-Bluesky)
 ### Misskey
-[https://github.com/halka/inReachtoMisskey halka/inReachtoMisskey]
+[halka/inReachtoMisskey](https://github.com/halka/inReachtoMisskey)
 
 ## Next up
 - Slack
