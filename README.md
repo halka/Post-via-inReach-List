@@ -24,4 +24,4 @@ Cloudflare Email Workers
 halka🍥rjch.jp
 
 ## License
-MIT, see 'LICENSE'
+MIT, see `LICENSE`
