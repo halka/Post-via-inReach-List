@@ -13,12 +13,12 @@ Cloudflare Email Workers
 [halka/inReachtoMisskey](https://github.com/halka/inReachtoMisskey)
 
 ## Next up
-- [] Slack
-- [] Discord
-- [] LINE
-- [] Telegram
-- [] Pushover
-- [] APRS (Amateur Radio)
+- [ ] Slack
+- [ ] Discord
+- [ ] LINE
+- [ ] Telegram
+- [ ] Pushover
+- [ ] APRS (Amateur Radio)
 
 ## Author
 halka🍥rjch.jp
